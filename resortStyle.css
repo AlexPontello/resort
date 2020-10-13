@@ -1,0 +1,42 @@
+*{
+    font-family: "Comic Sans MS";
+    background: antiquewhite;
+}
+
+div{
+    text-align: center;
+    height: auto;
+    background: skyblue;
+    font-size: 24px;
+    margin-top: 24px;
+    margin-bottom: 24px;;
+    border: 2px solid orange;
+    color: darkblue;
+    font-weight: bolder;
+}
+
+img{
+    border: 3px solid green;
+}
+
+button{
+    color: darkblue;
+    border-left: black;
+    border-top: black;
+    border-spacing: 3px;
+    opacity: .8;
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,0.2);
+}
+
+.amenity li{
+    color: brown;
+}
+
+ul li{
+    color: cadetblue;
+}
+
+h3{
+    color: darkblue;
+    font-weight: bolder;
+}
